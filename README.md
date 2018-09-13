@@ -2,4 +2,4 @@
 Data visualizations of LendUp data
 
 
-<iframe src = "https://jamvelasquez.shinyapps.io/plot1/" width = "300" height = "600" ></iframe>
+<iframe src = "https://jamvelasquez.shinyapps.io/plot1/" width = "500" height = "300" ></iframe>
